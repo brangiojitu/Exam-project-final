@@ -1,0 +1,41 @@
+.gallery-item2{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    font-style: italic;
+
+}
+.gallery-item2 .image{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+.gallery-item2 .image img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: 50% 50%;
+    cursor: pointer;
+    transition: .5s ease-in-out;
+}
+.gallery-item2:hover .image img{
+    transform: scale(1.5);
+}
+.gallery-item2 .text{
+    opacity: 1;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: red;
+    font-size: 60px;
+    pointer-events: none;
+    z-index:4;
+    transition: .3s ease-in-out;
+}
+.gallery-item2:hover .text{
+    opacity:1;
+    animation: move-down .3s linear;
+    padding: 1em;
+    width: 100%;
+}

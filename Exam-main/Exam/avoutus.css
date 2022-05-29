@@ -1,0 +1,236 @@
+.background_image{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.background_image img{
+    width: 1800px;
+    height: 3500px;
+    position: relative;
+}
+.photo{
+    width: 850px;
+    height: 650px;
+    position:absolute;
+    left: 80px;
+    top: 250px;
+}
+.photo3{
+    width: 850px;
+    height: 550px;
+    position:absolute;
+    left: 80px;
+    top: 1490px;
+}
+.photo2 {
+    width: 450px;
+    height: 550px;
+    bottom: 2060px;
+    position: absolute;
+    right: 80px;
+}
+.photo4 {
+    width: 850px;
+    height: 850px;
+    position:absolute;
+    left: 960px;
+    bottom: -2590px;
+
+}
+.paragraph h1{
+    position: absolute;
+    width: 750px;
+    height: 350px;
+    text-align: left;
+    top: 250px;
+    left: 1200px;
+    font-size: 4rem;
+    color: aliceblue;
+    
+}
+.paragraph h2{
+    position: absolute;
+    width: 850px;
+    height: 350px;
+    text-align: left;
+    top: 340px;
+    left: 950px;
+    font-size: 1.75rem;
+}
+.paragraph p{
+    position: absolute;
+    width: 850px;
+    height: 350px;
+    text-align: left;
+    top: 450px;
+    left: 950px;
+    font-size: 1.65rem;
+}
+.paragraph_2 h1{
+    position: absolute;
+    width: 850px;
+    height: 350px;
+    text-align: left;
+    top: 650px;
+    left: 950px;
+    font-size: 1.75rem;
+    color: black;
+}
+.paragraph_2 p{
+    position: absolute;
+    width: 850px;
+    height: 350px;
+    text-align: left;
+    top: 700px;
+    left: 950px;
+    font-size: 1.65rem;
+}
+.paragraph_3 p {
+    position: absolute;
+    width: 1750px;
+    height: 350px;
+    text-align: left;
+    top: 940px;
+    left: 100px;
+    font-size: 1.65rem;
+}
+.para_4 p{
+    position: absolute;
+    width: 1750px;
+    height: 350px;
+    text-align: left;
+    top: 1070px;
+    left: 100px;
+    font-size: 1.65rem;
+}
+.para_5 h3{
+    position: absolute;
+    width: 1750px;
+    height: 350px;
+    text-align: left;
+    top: 1220px;
+    left: 100px;
+    font-size: 1.75rem;
+}
+.para_5 p{
+    position: absolute;
+    width: 1250px;
+    height: 350px;
+    text-align: left;
+    top: 1300px;
+    left: 100px;
+    left: 100px;
+    font-size: 1.65rem;
+}
+.para_6{
+    position: absolute;
+    width: 1250px;
+    text-align: left;
+    font-size: 1.65rem;
+    top: 280px;
+    left: 1px;
+}
+.para_7 h4{
+    position: absolute;
+    width: 1200px;
+    text-align: left;
+    font-size: 1.65rem;
+    top: 1480px;
+    left: 950px;
+}
+.para_7 p{
+    position: absolute;
+    width: 800px;
+    text-align: left;
+    font-size: 1.65rem;
+    top: 1530px;
+    left: 950px;
+}
+.para_8 p{
+    position: absolute;
+    width: 800px;
+    text-align: left;
+    font-size: 1.65rem;
+    top: 1700px;
+    left: 950px; 
+}
+.para_9{
+    position: absolute;
+    width: 800px;
+    text-align: left;
+    font-size: 1.65rem;
+    top: 190px;
+    left: 0; 
+}
+.para_10 h5{
+    position: absolute;
+    width: 800px;
+    text-align: left;
+    font-size: 1.65rem;
+    top: 1870px;
+    left: 80px; 
+}
+.para_10 p{
+    position: absolute;
+    width: 870px;
+    text-align: left;
+    font-size: 1.65rem;
+    top: 1920px;
+    left: 80px; 
+}
+.para_11 p{
+    position: absolute;
+    width: 870px;
+    text-align: left;
+    font-size: 1.65rem;
+    top: 2090px;
+    left: 80px; 
+}
+.para_12{
+    position: absolute;
+    width: 1200px;
+    text-align: left;
+    font-size: 1.65rem;
+    top: 380px;
+    left: -4px;
+}
+.para_13 p{
+    position: absolute;
+    width: 800px;
+    text-align: left;
+    font-size: 1.65rem;
+    top: 2440px;
+    left: 75px; 
+}
+.para_14 h6{
+    position: absolute;
+    width: 1200px;
+    text-align: left;
+    font-size: 1.65rem;
+    top: 2750px;
+    left: 80px; 
+}
+.para_14 p{
+    position: absolute;
+    width: 1700px;
+    text-align: left;
+    font-size: 1.65rem;
+    top: 2800px;
+    left: 80px; 
+}.para_15 p{
+    position: absolute;
+    width: 1350px;
+    text-align: left;
+    font-size: 1.65rem;
+    top: 2950px;
+    left: 80px; 
+}
+.para_16 p{
+    position: absolute;
+    width: 1350px;
+    text-align: left;
+    font-size: 1.65rem;
+    top: 3050px;
+    left: 80px; 
+}
+

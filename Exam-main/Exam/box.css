@@ -1,0 +1,410 @@
+*{
+  background-color: #f5f5f5;
+}
+.box_container{
+  width: 900px;
+  height: 810px;
+  left: 650px;
+  top: 215px;
+  position: absolute;
+}
+.box_container .box{
+  width: 1200px;
+  height: 305px;
+  overflow: hidden;
+  text-align: center;
+  font-family: 'PT Sans Narrow', sans-serif;
+  letter-spacing: 20px;
+  border-radius: 20px;
+  box-shadow: 10px 10px 5px #aaaaaa;
+  border: 2px solid black ;
+  position: absolute;
+  background-color: #b6b4b4;
+}
+.box_container .box_2{
+  width: 1200px;
+  height: 305px;
+  overflow: hidden;
+  text-align: center;
+  font-family: 'PT Sans Narrow', sans-serif;
+  letter-spacing: 20px;
+  border-radius: 20px;
+  box-shadow: 10px 10px 5px #aaaaaa;
+  border: 2px solid black;
+  position: absolute;
+  background-color: #b6b4b4;
+  top: 350px;
+}
+.box_container .box_3{
+  width: 1200px;
+  height: 305px;
+  overflow: hidden;
+  text-align: center;
+  font-family: 'PT Sans Narrow', sans-serif;
+  letter-spacing: 20px;
+  border-radius: 20px;
+  box-shadow: 10px 10px 5px #aaaaaa;
+  border: 2px solid black;
+  position: absolute;
+  background-color: #b6b4b4;
+  top: 700px;
+  
+}
+.box_container .box_4{
+  width: 1200px;
+  height: 305px;
+  overflow: hidden;
+  text-align: center;
+  font-family: 'PT Sans Narrow', sans-serif;
+  letter-spacing: 20px;
+  border-radius: 20px;
+  box-shadow: 10px 10px 5px #aaaaaa;
+  border: 2px solid black;
+  position: absolute;
+  background-color: #b6b4b4;
+  top: 1050px;
+}
+.box_container .box h1{
+  position: relative;
+  text-align: center;
+  background-color:#b6b4b4;
+  color:#535353;
+  letter-spacing: 1px;
+  top: -200px;
+  text-shadow: 2px 2px darkgray;
+  text-transform:uppercase;
+  text-size-adjust: 1rem;
+  box-sizing: border-box;
+}
+.box_container .box_2 h1{
+  position: relative;
+  text-align: center;
+  background-color:#b6b4b4;
+  color:#535353;
+  letter-spacing: 1px;
+  top: -200px;
+  text-shadow: 2px 2px darkgray;
+  text-transform: none;
+  text-size-adjust: 1rem;
+}
+.box_container .box_3 h1{
+  position: relative;
+  text-align: center;
+  background-color:#b6b4b4;
+  color:#535353;
+  letter-spacing: 1px;
+  top: -200px;
+  text-shadow: 2px 2px darkgray;
+  text-transform: none;
+  text-size-adjust: 2rem;
+}
+.box_container .box_4 h1{
+  position: relative;
+  text-align: center;
+  background-color:#b6b4b4;
+  color:#535353;
+  letter-spacing: 1px;
+  top: -200px;
+  text-shadow: 2px 2px darkgray;
+  text-transform: none;
+  text-size-adjust: 2rem;
+}
+.box_container .box img{
+  width: 250px;
+  height: 200px;
+  position: relative;
+  top: 45px;
+  left: 10px;
+}
+.box_container .box_2 img{
+  width: 250px;
+  height: 200px;
+  position: relative;
+  top: 45px;
+  left: 10px; 
+}
+.box_container .box_3 img{
+  width: 250px;
+  height: 200px;
+  position: relative;
+  top: 45px;
+  left: 10px;
+}
+.box_container .box_4 img{
+  width: 250px;
+  height: 200px;
+  position: relative;
+  top: 45px;
+  left: 10px;
+}
+.box_container .box p{
+  background-color: #a5a5a5
+}
+.box_container .box_2 p{
+  background-color: #a5a5a5
+}
+.box_container .box_3 p{
+  background-color: #a5a5a5
+}
+.box_container .box_4 p{
+  background-color: #a5a5a5
+}
+.box_container .box h2{
+  position: relative;
+  text-align: left;
+  text-align: center;
+  overflow: hidden;
+  width: 250px;
+  height: 35px;
+  background-color:#a5a5a5;
+  letter-spacing: 0.1rem;
+  left: 72px;
+  font-family: none;
+  font-size: 0.94rem;
+  color:#fffefe;
+  bottom: -14px;
+  text-shadow: 2px 2px darkgray;
+}
+.box_container .box h3{
+  position: relative;
+  text-align: left;
+  text-align: center;
+  overflow: hidden;
+  width: 250px;
+  height: 35px;
+  background-color:#a5a5a5;
+  letter-spacing: 0.1rem;
+  left: 346px;
+  font-family: none;
+  font-size: 0.94rem;
+  color:#fffefe;
+  bottom: 21px;
+  text-shadow: 2px 2px darkgray;
+}
+.box_container .box h4{
+  position: relative;
+  text-align: left;
+  text-align: center;
+  overflow: hidden;
+  width: 250px;
+  height: 35px;
+  background-color:#a5a5a5;
+  letter-spacing: 0.1rem;
+  left: 620px;
+  font-family: none;
+  font-size: 0.94rem;
+  color:#fffefe;
+  bottom: 56px;
+  text-shadow: 2px 2px darkgray;
+}
+.box_container .box h5{
+  position: relative;
+  text-align: left;
+  text-align: center;
+  overflow: hidden;
+  width: 250px;
+  height: 35px;
+  background-color:#a5a5a5;
+  letter-spacing: 0.1rem;
+  left: 894px;
+  font-family: none;
+  font-size: 0.94rem;
+  color:#fffefe;
+  bottom: 91px;
+  text-shadow: 2px 2px darkgray;
+}
+.box_container .box_2 h2{
+    position: relative;
+    text-align: left;
+    text-align: center;
+    overflow: hidden;
+    width: 250px;
+    height: 35px;
+    background-color:#a5a5a5;
+    letter-spacing: 0.1rem;
+    left: 72px;
+    font-family: none;
+    font-size: 0.94rem;
+    color:#fffefe;
+    bottom: -15px;
+    text-shadow: 2px 2px darkgray;
+  }
+  .box_container .box_2 h3{
+    position: relative;
+    text-align: left;
+    text-align: center;
+    overflow: hidden;
+    width: 250px;
+    height: 35px;
+    background-color:#a5a5a5;
+    letter-spacing: 0.1rem;
+    left: 345px;
+    font-family: none;
+    font-size: 0.94rem;
+    color:#fffefe;
+    bottom: 20px;
+    text-shadow: 2px 2px darkgray;
+  }
+  .box_container .box_2 h4{
+    position: relative;
+    text-align: left;
+    text-align: center;
+    overflow: hidden;
+    width: 250px;
+    height: 35px;
+    background-color:#a5a5a5;;
+    letter-spacing: 0.1rem;
+    left: 620px;
+    font-family: none;
+    font-size: 0.94rem;
+    color:#fffefe;
+    bottom: 54px;
+    text-shadow: 2px 2px darkgray;
+  }
+  .box_container .box_2 h5{
+    position: relative;
+    text-align: left;
+    text-align: center;
+    overflow: hidden;
+    width: 250px;
+    height: 35px;
+    background-color:#a5a5a5;
+    letter-spacing: 0.1rem;
+    left: 894px;
+    font-family: none;
+    font-size: 0.94rem;
+    color:#fffefe;
+    bottom: 89px;
+    text-shadow: 2px 2px darkgray;
+  }
+  .box_container .box_3 h2{
+    position: relative;
+    text-align: left;
+    text-align: center;
+    overflow: hidden;
+    width: 250px;
+    height: 35px;
+    background-color:#a5a5a5;
+    letter-spacing: 0.1rem;
+    left: 70px;
+    font-family: none;
+    font-size: 0.94rem;
+    color:#fffefe;
+    bottom: -15px;
+    text-shadow: 2px 2px darkgray;
+  }
+  .box_container .box_3 h3{
+    position: relative;
+    text-align: left;
+    text-align: center;
+    overflow: hidden;
+    width: 250px;
+    height: 35px;
+    background-color:#a5a5a5;
+    letter-spacing: 0.1rem;
+    left: 346px;
+    font-family: none;
+    font-size: 0.94rem;
+    color:#fffefe;
+    bottom: 20px;
+    text-shadow: 2px 2px darkgray;
+  }
+  .box_container .box_3 h4{
+    position: relative;
+    text-align: left;
+    text-align: center;
+    overflow: hidden;
+    width: 250px;
+    height: 35px;
+    background-color:#a5a5a5;
+    letter-spacing: 0.1rem;
+    left: 620px;
+    font-family: none;
+    font-size: 0.94rem;
+    color:#fffefe;
+    bottom: 55px;
+    text-shadow: 2px 2px darkgray;
+  }
+  .box_container .box_3 h5{
+    position: relative;
+    text-align: left;
+    text-align: center;
+    overflow: hidden;
+    width: 250px;
+    height: 35px;
+    background-color:#a5a5a5;
+    letter-spacing: 0.1rem;
+    left: 894px;
+    font-family: none;
+    font-size: 0.94rem;
+    color:#fffefe;
+    bottom: 89px;
+    text-shadow: 2px 2px darkgray;
+  }
+  .box_container .box_4 h2{
+    position: relative;
+    text-align: left;
+    text-align: center;
+    overflow: hidden;
+    width: 250px;
+    height: 35px;
+    background-color:#a5a5a5;
+    letter-spacing: 0.1rem;
+    left: 70px;
+    font-family: none;
+    font-size: 0.94rem;
+    color:#fffefe;
+    bottom: -15px;
+    text-shadow: 2px 2px darkgray;
+  }
+  .box_container .box_4 h3{
+    position: relative;
+    text-align: left;
+    text-align: center;
+    overflow: hidden;
+    width: 250px;
+    height: 35px;
+    background-color:#a5a5a5;
+    letter-spacing: 0.1rem;
+    left: 346px;
+    font-family: none;
+    font-size: 0.94rem;
+    color:#fffefe;
+    bottom: 20px;
+    text-shadow: 2px 2px darkgray;
+  }
+  .box_container .box_4 h4{
+    position: relative;
+    text-align: left;
+    box-sizing: border-box;
+    text-align: center;
+    overflow: hidden;
+    width: 250px;
+    height: 35px;
+    background-color:#a5a5a5;
+    letter-spacing: 0.1rem;
+    left: 620px;
+    font-family: none;
+    font-size: 0.94rem;
+    color:#fffefe;
+    bottom: 55px;
+    text-shadow: 2px 2px darkgray;
+  }
+  .box_container .box_4 h5{
+    position: relative;
+    text-align: left;
+    box-sizing: border-box;
+    text-align: center;
+    overflow: hidden;
+    width: 250px;
+    height: 35px;
+    background-color:#a5a5a5;
+    letter-spacing: 0.1rem;
+    left: 894px;
+    font-family: none;
+    font-size: 0.94rem;
+    color:#fffefe;
+    bottom: 89px;
+    text-shadow: 2px 2px darkgray;
+  }
+  @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&family=EB+Garamond:ital@1&family=PT+Sans+Narrow&family=Zen+Loop:ital@1&display=swap');
